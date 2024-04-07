@@ -1,0 +1,13 @@
+h2 {
+    color: midnightblue;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.8);
+    font-family: Barlow Condensed;
+    font-size: 45px;
+}
+article{
+    color: blue;
+    font-family: Barlow Condensed;
+}
+a {
+    font-family: Bebas Neue;
+}

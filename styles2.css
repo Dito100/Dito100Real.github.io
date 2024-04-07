@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color :blue;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.8);
+    font-family: Algerian;
+    font-size: 55px;
+}
+article {
+    font-family: Bebas Neue;
+   
+}
+h2 {
+    text-align: center;
+    color: blueviolet;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.8);
+    font-family: Barlow Condensed;
+    font-size: 40px;
+    border-bottom: 5px double blue;
+}
