@@ -1,0 +1,17 @@
+h1 {
+    font-family: Roboto Condensed;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.8);
+    font-size: 65px;
+}
+h4 {
+    font-family: Barlow Condensed;
+}
+h3 {
+    font-family: Barlow Condensed;
+}
+strong {
+    background-color: yellow;
+}
+a {
+    font-family: Bebas Neue;
+}
